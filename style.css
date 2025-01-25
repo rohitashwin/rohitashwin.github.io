@@ -100,3 +100,11 @@ p {
   font-weight: 350;
   margin-bottom: 10px;
 }
+
+#resume-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
